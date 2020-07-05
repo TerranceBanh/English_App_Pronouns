@@ -4,8 +4,7 @@ html {
     margin: 0;
     font-weight: 300;
     font-family: Verdana;
-    overflow-wrap: normal;
-    word-wrap: normal;
+    overflow-wrap: break-word;
 }
 
 body {
