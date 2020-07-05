@@ -5,6 +5,7 @@ html {
     font-weight: 300;
     font-family: Verdana;
     overflow-wrap: normal;
+    word-wrap: normal;
 }
 
 body {
